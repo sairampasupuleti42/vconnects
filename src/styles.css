@@ -1,1 +1,46 @@
-/* You can add global styles to this file, and also import other style files */
+.cn-acc-bg {
+    background-image: url(./assets/lfbg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.cn-acc-full-page-wrapper {
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 0;
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.cn-acc-content-wrapper {
+    background: #ededed;
+    padding: 2.68rem 2.5rem;
+    width: 100%;
+    -webkit-flex-grow: 1;
+    
+}
+.p-0 {
+    padding: 0;
+}
+.cn-fg {
+    flex-grow: 1;
+}
+
+.cn-acc-form {
+    width: 30vw;
+    margin: auto;
+}
+.bg-cncts {
+    background-color: #1e354d !important;
+    
+}
+.navbar-brand {
+    color: #ffffff !important;
+}
+.nav-username {
+    color: #ffffff;
+}
+.nav-profile {
+    
+}
