@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "dev-connects"
+  },
+  "targets": {
+    "dev-connects": {
+      "hosting": {
+        "vconnects": [
+          "vconnects"
+        ]
+      }
+    }
   }
 }
